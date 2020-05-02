@@ -1,0 +1,16 @@
+---
+title: "07 Lose the battle, win the game"
+date: "2018-04-07"
+---
+
+<iframe src="https://anchor.fm/bosslee/embed/episodes/07-win-the-battle--lose-the-war-e19pvk" width="400px" height="102px" frameborder="0" scrolling="no"></iframe>
+
+ Hello everyone! Welcome to the 7th episode of Nightly. This is Bosslee and I am your host. Unfortunately, I wanted to make a recording at workplace yesterday but it did not take place because of time. Today is Saturday, how is your day coming along? Mine is doing ok, especially I stay up late yesterday night. Maybe the age is catching up, even though I slept late yesterday, I woke up early today. Like usual, maybe the body clock is in the work. So today, I like to share a story of the experience I had yesterday. I went for paintball with the CX team. It was a really fun game and these kind of paintball games always taught me lots of things.
+
+## How was the game arranged?
+
+It is broken down into 3 different rounds The first round was 12 minutes, the goal was to press the buzzer right in the center of the field. On left is Team Black and on the right is Team Green. Each of us have a base. The second and third round were 7 minutes each. This time the team was divided into terrorists and counter terrorists. Team Black was first the terrorists follow by Team Green. The goal of the terrorist team is to plant a bomb in a designated location and turn on an one minute timer. The goal of counter terrorists was to diffuse it. There were two designated locations to plant the bomb. One more easier to plant the bomb and the other was easier to diffuse. The terrorist team just need to plant the single bomb in either one of the location. Plus the planting of the bomb can only take place after 1 minute.
+
+## What did I learn?
+
+I was in the green team. We lost the first game because we took a more defensive approach plus we did not had a good ground because we had lights shining towards us. What we could have done is to rush to get the better grounds earlier. Because having better ground will also give us better cover. This is the situation kinda of like 孙子兵法. So in round 2, Team Green was the counter terrorists. We took a more aggressive approach plus we had better planning. There are more coordination in the team. We have 4 man team guarding the location which is easier to plant bomb because we guess that Team Black would go for the easier option. The remaining of the team members were guarding the area that was harder to plant the bomb but we also hold the ground nearer to the area, giving us better coverage of the battlefield. We won this round. Round 3. We were the terrorists. We followed the same plan to take on a more aggressive approach but this time round, we took the decision to aim at only the harder place to plant the bomb because we deem they might be arming more people to guard the opposite area. We were wrong on this and we end up losing the game. However we we had lots of fun in this, you see teammates rushing out shouting “go go go” like all of us have only a single goal and that is to win. That feeling feels really good even losing the game because it feels like a team United.   Have you all play these kind of paintball battles before? Love to hear your experiences!
