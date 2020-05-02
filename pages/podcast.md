@@ -7,4 +7,8 @@ eleventyNavigation:
   key: Podcast
   order: 3
 ---
-Here you can find two podcasts. They are all hosted in Spotify now. 
+Here you can find two podcasts. 
+
+They are available on Apple Podcasts, Spotify and all the available podcast players. 
+
+Currently I am podding at "Bosslee Tech Support"
