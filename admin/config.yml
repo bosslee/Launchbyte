@@ -18,11 +18,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Tags", name: "tags", widget: "list", default: ["post"] required: false}
       - { label: "Body", name: "body", widget: "markdown" }
   # Our blog posts
   - name: "podcast" # Used in routes, e.g., /admin/collections/blog
-    label: "podcast" # Used in the UI
+    label: "Podcast" # Used in the UI
     folder: "podcasts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -30,7 +30,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Tags", name: "tags", widget: "list", default: ["podcast"] required: false}
       - { label: "Body", name: "body", widget: "markdown" }
   # Our pages e.g. About
   - name: "pages"
