@@ -1,7 +1,7 @@
 :root {
 	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--secondary: #FF0080;
+	--background: #F8F8F8;
 }
 
 *, *:before, *:after {
@@ -45,7 +45,6 @@ header,
 main,
 footer {
 	padding: 1em;
-	margin: auto;
 }
 
 main {
