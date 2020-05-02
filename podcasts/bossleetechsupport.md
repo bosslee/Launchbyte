@@ -1,7 +1,9 @@
 ---
 title: Bosslee Tech Support
-date: 2016-06-29
+date: 2016-06-29T00:00:00.000Z
 summary: Active
+tags:
+  - podcast
 ---
 
 ## About the podcast:
@@ -12,3 +14,5 @@ Talking about technology for the rest of us. How our digital life is changing th
 The podcast is how hosted on Anchor and it also syncs to Spotify but if you like it old school. You can have the RSS - https://anchor.fm/s/115722c/podcast/rss
 
 <iframe src="https://open.spotify.com/embed-podcast/show/2qXg7WuY5riRoTjho7Sxfp" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Test
