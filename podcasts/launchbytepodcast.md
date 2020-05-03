@@ -1,7 +1,7 @@
 ---
 title: Launchbyte Podcast
 date: 2013-06-16
-summary: Paused
+description: Paused
 ---
 
 ## About the podcast:
