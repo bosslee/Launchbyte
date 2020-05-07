@@ -6,12 +6,11 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-
 Welcome to Launchbyte with Bosslee. 
 
 ## The Past
 
-First, let me share with you some history of the site. This site used to be a place where we hosted our podcast - Launchbyte Podcast. It started in 2013 and I did it with my good friend Chris. You can still find the [podcasts](/podcasts) here.
+First, let me share with you some history of the site. This site used to be a place where we hosted our podcast - Launchbyte Podcast. It started in 2013 and I did it with my good friend Chris. You can still find the [podcasts](/podcast) here.
 
 When Chris and I first started, we wanted an outlet to talk about tech. During that time podcast wasn't a thing yet. We had to go into an actual recording studio to do a recording. It also gave me an experience into recording, making things and getting it out there.
 
