@@ -33,5 +33,4 @@ I hope this can be useful for businesses that are moving online especially durin
 
 ## Finding me elsewhere?
 
-* [Bosslee Tech](https://www.instagram.com/bossleetech/channel/)
-* [Launchbyte with Bosslee](https://www.facebook.com/Launchbyte/)
+* [Youtube: Bosslee Tech](https://www.youtube.com/channel/UCYZEakRmAdZ_NRpnW0RzPVQ)
