@@ -15,21 +15,25 @@ Yes this site is plain on purpose.
 
 Launchbyte used to be a podcast site. You can find more about it [here](/about).
 
-After a long hiatus, decided to make it something useful again. Currently the topic on this site is about e-commerce. 
+After a long hiatus, decided to make it something useful again. I will be using it to share the every tech stuff that I have learn. You will find useful stuff like: 
+
+- how to build your own website or even e-commerce sites
+- how to write your own automation scripts at work. No more repetition work.
+- what are the latest no-code tools, you can use to help with your workflow.
+
 
 ## What makes you the person to talk about it?
 
-I been working in a local ecommerce marketplace for sometime and I learn a few things. **Opinions are my own and not the views of my employer**.
+I graduated from NUS Business School but I fell in love with Tech and start exploration on my own. I learn a lot from open source materials and online courses. While no certifications are given from self-learning, these skill sets help me both personally and professionally. 
 
-These are **NOT** secrets that I am sharing. These are open information which you can find online but because there are so many clutter out there, you might have missed out the important information.
+Currently, I am a Technical Program Manager with Lazada Group
 
-I hope this can be useful for businesses that are moving online especially during this Covid19 period. 
+I am still learning and I believe the best way to learn is to teach.
 
 ## Who is this site for?
 
-* if you are starting out in e-commerce
-* if you are a business affect by the Covid19 situation and looking to move your business online.
-* if you are into the latest trend in e-commerce
+- You are looking for quick hacks to improve your workflow
+- You are looking to build your own thing online
 
 ## Finding me elsewhere?
 
