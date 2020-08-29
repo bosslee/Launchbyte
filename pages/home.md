@@ -24,9 +24,9 @@ After a long hiatus, decided to make it something useful again. I will be using 
 
 ## What makes you the person to talk about it?
 
-I graduated from NUS Business School but I fell in love with Tech and start exploration on my own. I learn a lot from open source materials and online courses. While no certifications are given from self-learning, these skill sets help me both personally and professionally. 
+I graduated from NUS Business School but I fell in love with Tech and start exploration on my own. I learn a lot from online materials and courses. While no certifications are given from self-learning, these skill sets help me both personally and professionally. 
 
-Currently, I am a Technical Program Manager with Lazada Group
+Currently, I am a Technical Program Manager with Lazada Group.
 
 I am still learning and I believe the best way to learn is to teach.
 
