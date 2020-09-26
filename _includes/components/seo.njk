@@ -8,7 +8,7 @@
     {% endif %}
 </title>
 
-<meta itemprop="description" name="description" content="{{ description }}"/>
+<meta itemprop="description" name="description" content="{{ description or metadata.description }}"/>
 
 {% if permalink == "/" %}
     {% set canonicalUrl = metadata.canonicalUrl %}
