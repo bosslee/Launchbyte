@@ -1,7 +1,8 @@
 ---
 title: Launchbyte Podcast
 date: 2013-06-16
-description: Ongoing
+description: |+
+  Active - Restarted on 28 Sep 2020
 ---
 ## About the podcast:
 
