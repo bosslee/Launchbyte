@@ -20,8 +20,5 @@ Throughout the years there are lots of on and off in making the shows. It was re
 
 Since there are little updates, we have moved the hosting over to [Anchor](https://anchor.fm/launchbyte-podcast). This makes maintenance easier too. One day, we can share with our kids the funny things we do.
 
-## The Future
-
-I thought the domain name Launchbyte.com brings back a lot of memories and I do not want to waste it just to be sitting around so I decided to pick it up again. This time, hopefully making it into something more useful. Something that brings more value to the people. 
-
-Currently, the content here focus on e-commerce. I hope you it useful.
+## Now
+You can find out more from [here](https://www.launchbyte.com/) :)
