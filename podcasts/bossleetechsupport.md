@@ -1,7 +1,7 @@
 ---
-title: Bosslee Tech Support
+title: Bosslee Reads Tech News
 date: 2016-06-29
-description: Active
+description: Paused
 ---
 
 ## About the podcast:
