@@ -1,8 +1,8 @@
 ---
 title: Launchbyte Podcast
 date: 2013-06-16
-description: |+
-  Active - Restarted on 28 Sep 2020
+description: Active when we have time :)
+author: Bosslee and Friends
 ---
 ## About the podcast:
 

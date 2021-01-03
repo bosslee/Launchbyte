@@ -1,13 +1,14 @@
 ---
-title: Bosslee Reads Tech News
+title: Documenting life after work
 date: 2016-06-29
-description: Paused
+description: Active
+author: Bosslee
 ---
 
 ## About the podcast:
 Started on 29 Jun 2016
 
-Talking about technology for the rest of us. How our digital life is changing the way we do things. Sharing mistakes so that you can avoid them 😁 #lifeafterwork #ecommerce #techsupport
+Talks about life after work. 
 
 The podcast is how hosted on Anchor and it also syncs to Spotify but if you like it old school. You can have the RSS - https://anchor.fm/s/115722c/podcast/rss
 

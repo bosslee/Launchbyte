@@ -17,7 +17,7 @@
 			{% endif %}
 			<p>
 				<time datetime="{{ podcast.date | machineDate }}">
-					<small>started on {{ podcast.date | readableDate }} by {{ metadata.author.name }}</small>
+					<small>started on {{ podcast.date | readableDate }} by {{ podcast.data.author }}</small>
 				</time>
 			</p>
 			{% if podcast.data.tags %}

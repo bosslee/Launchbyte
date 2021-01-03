@@ -20,7 +20,7 @@
   <subtitle>{{ metadata.subtitle }}</subtitle>
   <link href="{{ metadata.feedUrl }}" rel="self"/>
   <link href="{{ metadata.url }}"/>
-  {% set postslist = collections.post %}
+  {% set postslist = collections.podcast %}
   <updated>{{ postslist | rssLastUpdatedDate }}</updated>
   <id>{{ metadata.url }}</id>
   <author>
